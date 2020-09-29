@@ -1,0 +1,3 @@
+內有drapper的insert使用方式(單純做紀錄 未來可使用)
+
+主要功能讀取CSV及excel的程式  為了將固定格式excel及CSV，經計算後匯入至postgresql。
